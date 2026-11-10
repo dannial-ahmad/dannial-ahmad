@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="84" viewBox="0 0 940 84" role="img" aria-label="Footer">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <line x1="8" y1="10" x2="932" y2="10" stroke="#1A1A1A" stroke-width="1"/>
+
+  <text x="470" y="38" class="mono" font-size="10" fill="#A9A9A9" text-anchor="middle" letter-spacing="3">DANNIAL AHMAD · INTELLIGENT SYSTEMS · CLEAN PIPELINES</text>
+
+  <!-- EOF line with blinking cursor -->
+  <text x="470" y="64" class="mono" font-size="12" font-weight="700" fill="#0A66C2" text-anchor="middle">— EOF —</text>
+  <rect x="510" y="53" width="7" height="13" fill="#E8FA03">
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner pulses -->
+  <circle cx="8" cy="10" r="2.5" fill="#0A66C2">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="932" cy="10" r="2.5" fill="#E8FA03">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

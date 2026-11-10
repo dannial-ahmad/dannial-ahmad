@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="12" viewBox="0 0 940 12">
+  <defs>
+    <linearGradient id="hrSweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A66C2" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#0A66C2" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0A66C2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="8" y1="6" x2="932" y2="6" stroke="#262626" stroke-width="1"/>
+  <g>
+    <line x1="-120" y1="6" x2="0" y2="6" stroke="url(#hrSweep)" stroke-width="1.5"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 1180 0" dur="3.6s" repeatCount="indefinite"/>
+  </g>
+</svg>
