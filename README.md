@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Dannial Ahmad, AI and machine learning engineer. Telemetry tiles: 3 public repos, 13 contributions in 2026, current streak 1, 265 days on platform" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=DANNIAL%20AHMAD&fontSize=52&fontColor=F0F6FC&fontAlignY=38&desc=AI%20%C2%B7%20ML%20ENGINEER&descAlignY=58&descSize=16&color=0:0A0A0A,60:0D1117,100:0A66C2" alt="Dannial Ahmad, AI and machine learning engineer" width="100%">
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
 
-Every graphic on this page is a hand-built SVG generated from this account's real telemetry and hosted right here in the repo. Nothing leans on a third-party widget that can expire, rate-limit, or vanish, so nothing here breaks.
+Every graphic on this page is built from this account's real GitHub data: contribution snake, 3D contribution calendar, streak telemetry, language stats. The numbers are the numbers.
 
 <br/>
 
@@ -50,15 +50,25 @@ Every graphic on this page is a hand-built SVG generated from this account's rea
 <br/>
 <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,docker&theme=dark&perline=8" alt="Tools: Jupyter, Git, GitHub, VS Code, Docker">
 
-</div>
-
 <br/>
 
-The parts no icon pack covers, mapped on one canvas:
-
-<div align="center">
-
-<img src="./assets/stack.svg" alt="Toolchain map: Python, SQL, Jupyter, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Power BI, Ollama, Git, Linux, Docker, VS Code" width="100%">
+**Data & App Layer**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Pandas">
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="NumPy">
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Matplotlib">
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Streamlit">
+&nbsp;
+<img src="https://img.shields.io/badge/Gradio-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Gradio">
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Power BI">
+&nbsp;
+<img src="https://img.shields.io/badge/Ollama-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Ollama">
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Linux">
 
 </div>
 
@@ -67,16 +77,19 @@ The parts no icon pack covers, mapped on one canvas:
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  03 / SIGNAL                                                         -->
+<!--  03 / GITHUB STATS                                                   -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `03 /` Signal
-
-Telemetry, not vanity. The widgets below are rendered from this account's live GitHub data and rebuilt as local SVG cards, so the numbers are the numbers.
+## `03 /` GitHub Stats
 
 <div align="center">
 
-<img src="./assets/clock.svg" alt="Live telemetry: 265 days on platform, 3 public repos, 13 contributions in 2026, current streak 1" width="100%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&icon_color=E8FA03&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub stats card for dannial-ahmad" width="49%">
+<img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=E8FA03&sideLabels=8B949E&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dannial-ahmad&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="Top languages: Jupyter Notebook 100 percent" width="34%">
 
 </div>
 
@@ -84,13 +97,25 @@ Telemetry, not vanity. The widgets below are rendered from this account's live G
 <hr/>
 <br/>
 
-## `04 /` Journey
+## `04 /` Contribution Atlas
 
-The log so far: account created in February, a long quiet build phase through March and October, then the first public repositories landing in November. Early logs are short. That is what a beginning looks like.
+The daily log, drawn two ways. The dark and light variants follow your theme.
 
 <div align="center">
 
-<img src="./assets/timeline.svg" alt="Journey log: 18 Feb 2026 platform joined, Mar-Oct 2026 build phase, 10 Nov 2026 first public repositories" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg" width="80%">
+</picture>
 
 </div>
 
@@ -155,7 +180,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 
 <div align="center">
 
-<img src="./assets/quote.svg" alt="Operating principle: models that ship are worth more than models that score" width="100%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Rotating engineering quote" width="50%">
 
 </div>
 
@@ -170,9 +195,5 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 <a href="https://linkedin.com/in/dannialahmad"><img src="https://img.shields.io/badge/LinkedIn-dannialahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A" alt="LinkedIn"></a>
 &nbsp;
 <a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="GitHub"></a>
-
-<br/><br/>
-
-<img src="./assets/footer.svg" alt="End of profile: EOF, Dannial Ahmad, 2026" width="100%">
 
 </div>
