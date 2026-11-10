@@ -1,151 +1,178 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Dannial Ahmad — overview dashboard" width="100%">
+<img src="./assets/banner.svg" alt="Dannial Ahmad, AI and machine learning engineer. Telemetry tiles: 3 public repos, 13 contributions in 2026, current streak 1, 265 days on platform" width="100%">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=2800&pause=700&color=5E5CE6&center=true&vCenter=true&width=560&lines=DANNIAL+AHMAD;AI+%C2%B7+ML+Engineer;Messy+Data+%E2%86%92+Real+Impact" alt="Dannial Ahmad — typing intro">
-
-<br/>
-
-<em>"Turning messy data into clear, useful outcomes."</em>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-16A34A?style=flat-square&labelColor=EEF2FF" alt="Status — open to collaborate">
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Status: open to collaborate">
 &nbsp;
-<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=5E5CE6&labelColor=EEF2FF" alt="Followers">
+<img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Role: AI and ML engineer">
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=dannial-ahmad&style=flat-square&color=0A84FF&label=VIEWS&labelColor=EEF2FF" alt="Profile views">
+<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=0A66C2&labelColor=0A0A0A" alt="GitHub followers">
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dannial-ahmad&style=flat-square&color=0A66C2&label=VIEWS&labelColor=0A0A0A" alt="Profile views">
 
 </div>
 
-<!-- ════════════════════════════════════════════════ 01 ══ -->
+<br/>
+<hr/>
 <br/>
 
-<img src="./assets/header-01.svg" alt="Section 01 — Overview" width="100%">
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  01 / IDENTITY                                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-I'm **Dannial Ahmad** — an AI/ML engineer building intelligent systems that turn messy data into clear, useful outcomes. The work spans machine learning, data analysis, and applied AI: models that are actually useful, pipelines that stay clean, and interfaces people genuinely want to use.
+## `01 /` Identity
 
-Every graphic on this page — the dashboard, the section headers, the stat widgets, the timeline — is a hand-built SVG generated from real repository data, hosted in this repo and rendered locally. Nothing depends on a third-party service staying up, so nothing here can break.
+I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
+
+Every graphic on this page is a hand-built SVG generated from this account's real telemetry and hosted right here in the repo. Nothing leans on a third-party widget that can expire, rate-limit, or vanish, so nothing here breaks.
 
 <br/>
 
-<!-- ════════════════════════════════════════════════ 02 ══ -->
-<img src="./assets/header-02.svg" alt="Section 02 — Stack" width="100%">
+## `02 /` Stack
 
-The toolchain is organized the way the work actually flows: languages at the core, the ML stack for modeling, app frameworks for shipping, and infrastructure for keeping it all reproducible.
+<div align="left">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark&perline=8" alt="Languages: Python, SQL">
+
+<br/>
+
+**AI & ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" alt="AI and ML: TensorFlow, PyTorch, Scikit-learn, OpenCV">
+
+<br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,docker&theme=dark&perline=8" alt="Tools: Jupyter, Git, GitHub, VS Code, Docker">
+
+</div>
+
+<br/>
+
+The parts no icon pack covers, mapped on one canvas:
 
 <div align="center">
 
-<img src="./assets/stack.svg" alt="Technology stack — Python, SQL, Jupyter, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Power BI, Ollama, Git, Linux, Docker, VS Code" width="100%">
+<img src="./assets/stack.svg" alt="Toolchain map: Python, SQL, Jupyter, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Power BI, Ollama, Git, Linux, Docker, VS Code" width="100%">
 
 </div>
 
 <br/>
+<hr/>
+<br/>
 
-<!-- ════════════════════════════════════════════════ 03 ══ -->
-<img src="./assets/header-03.svg" alt="Section 03 — Focus Tracks" width="100%">
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  03 / SIGNAL                                                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-Three tracks, one direction — systems that work outside the notebook.
+## `03 /` Signal
 
-**Deep Learning** — pushing past tutorials: shaping datasets properly, training honestly, evaluating against baselines that matter. The goal is judgment — knowing why a model fails, not just that it failed.
+Telemetry, not vanity. The widgets below are rendered from this account's live GitHub data and rebuilt as local SVG cards, so the numbers are the numbers.
 
-**ML System Design** — learning to think in systems rather than notebooks. How data pipelines, models, and serving layers fit together so the whole thing survives contact with real usage instead of demo conditions.
+<div align="center">
 
-**Real-world Impact** — the north star. Interfaces a real user can actually touch: interactive apps with `Streamlit` and `Gradio`, local LLM experiments with `Ollama`, reporting that decisions get made from. A model nobody can use is a hobby; a system people use is impact.
+<img src="./assets/clock.svg" alt="Live telemetry: 265 days on platform, 3 public repos, 13 contributions in 2026, current streak 1" width="100%">
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+## `04 /` Journey
+
+The log so far: account created in February, a long quiet build phase through March and October, then the first public repositories landing in November. Early logs are short. That is what a beginning looks like.
+
+<div align="center">
+
+<img src="./assets/timeline.svg" alt="Journey log: 18 Feb 2026 platform joined, Mar-Oct 2026 build phase, 10 Nov 2026 first public repositories" width="100%">
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+## `05 /` Currently Building
+
+Two builds are live, both notebook-first:
+
+**Ai-market-analyst** - an AI workspace for reading markets, built Jupyter-native and shipped in public from day one.
+
+**ML-Powered-Loan-Approval-Predictor** - a machine learning take on loan approval decisions, from data cleaning to an honest evaluation of the final model.
+
+Both are early. The point of shipping in public is to let real feedback, not private perfection, shape the next commit.
+
+<br/>
+<hr/>
+<br/>
+
+## `06 /` What I'm Learning
+
+Every week has a focus: depth on one tool pushed past the tutorial, breadth across what is new in applied ML. Depth without breadth becomes dogma, breadth without depth becomes a logo collection.
+
+<div align="left">
+
+**This week - deep work**
+
+- `TensorFlow` - training pipelines and honest evaluation
+- `Ollama` - running and steering local LLMs
+- `Streamlit` - turning notebooks into usable apps
 
 <br/>
 
-<!-- ════════════════════════════════════════════════ 04 ══ -->
-<img src="./assets/header-04.svg" alt="Section 04 — Learning Loop" width="100%">
+**On the radar - exploring**
 
-Every week splits into **depth** — one tool pushed past the tutorial — and **breadth** — surveying what's new in applied ML. Depth without breadth becomes dogma; breadth without depth becomes a logo collection.
+- `ML System Design` - pipelines that survive contact with production
+- `Data Analysis` - asking better questions of the data
+- `Gradio` - the fastest path from model to demo
+- `Docker` - reproducible environments, no excuses
 
-**This week — deep work**
-
-- `TensorFlow` — training pipelines & honest evaluation
-- `Ollama` — running and steering local LLMs
-- `Streamlit` — turning notebooks into usable apps
+</div>
 
 <br/>
-
-<details>
-<summary><b>On the radar — exploring</b></summary>
+<hr/>
 <br/>
 
-- `ML System Design` — patterns for pipelines that survive production
-- `Data Analysis` — craft: asking better questions of the data
-- `Pipeline hygiene` — clean, testable, reproducible data flows
-- `Interface design` — ML surfaces people enjoy using
-- `Gradio` — faster paths from model to demo
+## `07 /` Philosophy
 
-</details>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════ 05 ══ -->
-<img src="./assets/header-05.svg" alt="Section 05 — Principles" width="100%">
-
-- **Impact over metrics.** A deployed system with a clear trade-off story beats a perfect score nobody can use.
-- **Clean pipelines, clear thinking.** The state of the pipeline mirrors the state of the thinking. Both deserve maintenance.
-- **Break • test • iterate.** Small steps, verified constantly. Confidence comes from evidence, not vibes.
+- **Models that ship > models that score.** Production impact is the only metric that survives contact with reality.
+- **Clean pipelines, clear thinking.** The state of the pipeline mirrors the state of the mind that built it. Both deserve maintenance.
+- **Break, test, iterate.** Small verified steps beat big untested leaps. Confidence comes from evidence, not vibes.
 - **Docs people actually read.** If the explanation is unusable, the work is unfinished. Writing is engineering.
-- **Show the real numbers.** Small honest telemetry beats big decorated vanity metrics. Measure, don't decorate.
+- **Show the real numbers.** Small honest telemetry beats big decorated vanity metrics.
 
 <br/>
-
-<!-- ════════════════════════════════════════════════ 06 ══ -->
-<img src="./assets/header-06.svg" alt="Section 06 — Method" width="100%">
-
-How the method shows up day to day. Every build runs the same standard pipeline — collect, clean, explore, model, evaluate, share — because skipping a stage always costs more later than running it costs now. Experiments are verified constantly rather than trusted: small steps, quick tests, evidence over vibes. Everything gets written down as if a teammate has to pick it up tomorrow, because readable code and real documentation are part of the deliverable, not an afterthought. And nothing stays hidden in a branch until it is perfect — work is shared early and reviewed often, because feedback is the fastest debugger there is.
-
+<hr/>
 <br/>
 
-<!-- ════════════════════════════════════════════════ 07 ══ -->
-<img src="./assets/header-07.svg" alt="Section 07 — Live Stats" width="100%">
-
-Telemetry, not vanity. The widgets below are generated from this account's real GitHub data — days on platform, public repos, contributions, streak — rendered as local SVG cards instead of third-party widgets, so they always load and they never lie.
+## `08 /` Quote
 
 <div align="center">
 
-<img src="./assets/clock.svg" alt="Live stats — T+265 days on GitHub, 3 public repos, 13 contributions in 2026, current streak 1" width="100%">
+<img src="./assets/quote.svg" alt="Operating principle: models that ship are worth more than models that score" width="100%">
 
 </div>
 
 <br/>
+<hr/>
+<br/>
 
-<!-- ════════════════════════════════════════════════ 08 ══ -->
-<img src="./assets/header-08.svg" alt="Section 08 — Journey" width="100%">
-
-The road so far, plotted on a real timeline: journey start in February, a long quiet build phase, and the first repositories going live in November. Early logs are short — that is what the beginning of a log looks like.
+## `09 /` Connect
 
 <div align="center">
 
-<img src="./assets/timeline.svg" alt="Journey timeline — 18 Feb 2026 start, Mar–Oct build phase, 10 Nov 2026 first public repositories" width="100%">
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════ 09 ══ -->
-<img src="./assets/header-09.svg" alt="Section 09 — Collaborate" width="100%">
-
-Status: **open to collaborate.** Most useful around machine learning experiments, data analysis, and building intelligent systems end to end — from raw data to a working interface. If a project needs someone who treats pipelines, evaluation, and documentation as first-class deliverables, that is exactly the kind of work I take on.
-
-<br/>
-
-<!-- ════════════════════════════════════════════════ 10 ══ -->
-<img src="./assets/header-10.svg" alt="Section 10 — Connect" width="100%">
-
-<div align="center">
-
-<a href="https://linkedin.com/in/dannialahmad"><img src="https://img.shields.io/badge/LinkedIn-dannialahmad-0A84FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=EEF2FF" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/dannialahmad"><img src="https://img.shields.io/badge/LinkedIn-dannialahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-5E5CE6?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=EEF2FF" alt="GitHub"></a>
+<a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="GitHub"></a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="End of profile" width="100%">
+<img src="./assets/footer.svg" alt="End of profile: EOF, Dannial Ahmad, 2026" width="100%">
 
 </div>
