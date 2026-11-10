@@ -22,7 +22,7 @@
 
 I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
 
-The dashboard, stack matrix, atlas and repo cards on this page are generated from this account's live GitHub data and rebuilt on every update. The numbers are the numbers.
+Every graphic on this page is generated from this account's live GitHub data: the dashboard, the stack matrix, the orbit, the telemetry, and the repo cards are rebuilt on every update and hosted in this repository's own branches. The numbers are the numbers.
 
 <br/>
 <hr/>
@@ -67,14 +67,14 @@ The dashboard, stack matrix, atlas and repo cards on this page are generated fro
 
 ## `04 /` Contribution Atlas
 
-The daily log, drawn two ways. The dark and light variants follow your theme.
+The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the calendar, with the latest active day pulsing at the rim. The 3D calendar raises every contribution into a slab. Both follow your theme.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit.svg">
+  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring, 13 contributions across 2 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -92,10 +92,28 @@ The daily log, drawn two ways. The dark and light variants follow your theme.
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  05 / TRENDING REPOS                                                 -->
+<!--  05 / REPO TELEMETRY                                                 -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-## `05 /` Trending Repos
+## `05 /` Repo Telemetry
+
+Commit weight and code volume for every repository in the account, measured live from the GitHub API. Code volume uses a log scale, because 2.9 MB of notebooks would flatten everything else into a hairline.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/repo-telemetry.svg" alt="Repo telemetry: commit weight and code volume per repository, 47 total public commits" width="100%">
+
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  06 / TRENDING REPOS                                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `06 /` Trending Repos
 
 Two builds, shipped in public from day one. Commit signal updates with every push.
 
@@ -117,7 +135,7 @@ Both are early. The point of shipping in public is to let real feedback, not pri
 <hr/>
 <br/>
 
-## `06 /` What I'm Learning
+## `07 /` What I'm Learning
 
 Every week has a focus: depth on one tool pushed past the tutorial, breadth across what is new in applied ML. Depth without breadth becomes dogma, breadth without depth becomes a logo collection.
 
@@ -144,7 +162,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 <hr/>
 <br/>
 
-## `07 /` Philosophy
+## `08 /` Philosophy
 
 - **Models that ship > models that score.** Production impact is the only metric that survives contact with reality.
 - **Clean pipelines, clear thinking.** The state of the pipeline mirrors the state of the mind that built it. Both deserve maintenance.
@@ -156,7 +174,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 <hr/>
 <br/>
 
-## `08 /` Connect
+## `09 /` Connect
 
 <div align="center">
 
