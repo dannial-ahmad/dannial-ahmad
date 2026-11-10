@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=DANNIAL%20AHMAD&fontSize=52&fontColor=F0F6FC&fontAlignY=38&desc=AI%20%C2%B7%20ML%20ENGINEER&descAlignY=58&descSize=16&color=0:0A0A0A,60:0D1117,100:0A66C2" alt="Dannial Ahmad, AI and machine learning engineer" width="100%">
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/dashboard-header.svg" alt="Dannial Ahmad live telemetry dashboard: 3 public repos, 47 commits, 13 contributions, 265 days on platform" width="100%">
 
 <br/>
 
@@ -9,13 +9,9 @@
 <img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Role: AI and ML engineer">
 &nbsp;
 <img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=0A66C2&labelColor=0A0A0A" alt="GitHub followers">
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=dannial-ahmad&style=flat-square&color=0A66C2&label=VIEWS&labelColor=0A0A0A" alt="Profile views">
 
 </div>
 
-<br/>
-<hr/>
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -26,49 +22,21 @@
 
 I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
 
-Every graphic on this page is built from this account's real GitHub data: contribution snake, 3D contribution calendar, streak telemetry, language stats. The numbers are the numbers.
+The dashboard, stack matrix, atlas and repo cards on this page are generated from this account's live GitHub data and rebuilt on every update. The numbers are the numbers.
 
 <br/>
-
-## `02 /` Stack
-
-<div align="left">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark&perline=8" alt="Languages: Python, SQL">
-
+<hr/>
 <br/>
 
-**AI & ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8" alt="AI and ML: TensorFlow, PyTorch, Scikit-learn, OpenCV">
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  02 / STACK MATRIX                                                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<br/>
+## `02 /` Stack Matrix
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,docker&theme=dark&perline=8" alt="Tools: Jupyter, Git, GitHub, VS Code, Docker">
+<div align="center">
 
-<br/>
-
-**Data & App Layer**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Pandas">
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="NumPy">
-&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Matplotlib">
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Streamlit">
-&nbsp;
-<img src="https://img.shields.io/badge/Gradio-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Gradio">
-&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Power BI">
-&nbsp;
-<img src="https://img.shields.io/badge/Ollama-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Ollama">
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-1F6FEB?style=flat-square&labelColor=0A0A0A" alt="Linux">
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/stack-matrix.svg" alt="Stack matrix: Python, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, Jupyter, Git, GitHub, Docker, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Ollama, Linux" width="100%">
 
 </div>
 
@@ -87,15 +55,15 @@ Every graphic on this page is built from this account's real GitHub data: contri
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&icon_color=E8FA03&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub stats card for dannial-ahmad" width="49%">
 <img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=E8FA03&sideLabels=8B949E&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
 
-<br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dannial-ahmad&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&text_color=8B949E&langs_count=8" alt="Top languages: Jupyter Notebook 100 percent" width="34%">
-
 </div>
 
 <br/>
 <hr/>
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  04 / CONTRIBUTION ATLAS                                             -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 ## `04 /` Contribution Atlas
 
@@ -123,9 +91,21 @@ The daily log, drawn two ways. The dark and light variants follow your theme.
 <hr/>
 <br/>
 
-## `05 /` Currently Building
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  05 / TRENDING REPOS                                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-Two builds are live, both notebook-first:
+## `05 /` Trending Repos
+
+Two builds, shipped in public from day one. Commit signal updates with every push.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/trending-repos.svg" alt="Trending repos: Ai-market-analyst and ML-Powered-Loan-Approval-Predictor with live commit signal" width="100%">
+
+</div>
+
+<br/>
 
 **Ai-market-analyst** - an AI workspace for reading markets, built Jupyter-native and shipped in public from day one.
 
@@ -176,19 +156,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 <hr/>
 <br/>
 
-## `08 /` Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Rotating engineering quote" width="50%">
-
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-## `09 /` Connect
+## `08 /` Connect
 
 <div align="center">
 
