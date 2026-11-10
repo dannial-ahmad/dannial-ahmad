@@ -1,136 +1,35 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Dannial Ahmad — Profile Dashboard" width="100%">
+<img src="./assets/hero.svg" alt="Dannial Ahmad — Command Deck" width="100%">
 
 </div>
 
+<!-- ════════════════════════════════════════════════ 01 ══ -->
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=42&duration=2800&pause=600&color=0A66C2&center=true&vCenter=true&width=540&lines=DANNIAL+AHMAD;AI+%C2%B7+ML+Engineer;Messy+Data+%E2%86%92+Real+Impact" alt="Name typing">
-
-<br/>
-
-<em>"Turning messy data into clear, useful outcomes."</em>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Status">
-<img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Role">
-<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=0A66C2&labelColor=0A0A0A" alt="Followers">
-<img src="https://komarev.com/ghpvc/?username=dannial-ahmad&style=flat-square&color=E8FA03&label=VIEWS&labelColor=0A0A0A" alt="Views">
-
-</div>
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  01 / IDENTITY                                                       -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## `01 /` Identity
+<img src="./assets/header-01.svg" alt="Section 01 — Command Deck" width="100%">
 
 I'm **Dannial Ahmad** — an AI/ML engineer building intelligent systems that turn messy data into clear, useful outcomes. The work spans machine learning, data analysis, and applied AI: models that are actually useful, pipelines that stay clean, and interfaces people genuinely want to use.
 
-I treat every build as a system that has to earn its keep — collect, clean, explore, model, evaluate, share. Measurable impact over model metrics. Readable code over clever code. Documentation people actually read. If it can't be explained simply, it isn't finished yet.
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
-
-## `02 /` Stack
-
-<div align="left">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,sql&theme=dark&perline=8" alt="Languages">
+This profile runs like a command deck. Every graphic on the page — the dashboard, the headers, the telemetry, the timeline — is generated from real repository data, hosted in this repo, and rendered locally. Nothing depends on a third-party service staying up, so nothing here can break.
 
 <br/>
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib&theme=dark&perline=8" alt="AI and ML">
+<!-- ════════════════════════════════════════════════ 02 ══ -->
+<img src="./assets/header-02.svg" alt="Section 02 — Stack" width="100%">
 
-<br/>
-
-**Apps & Interfaces**
-<br/>
-<img src="https://skillicons.dev/icons?i=streamlit,vscode&theme=dark&perline=8" alt="Apps and Interfaces">
-`Gradio` · `Power BI` · `Ollama`
-
-<br/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark&perline=8" alt="Tools">
-
-</div>
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
-
-## `03 /` Metrics
+The toolchain is organized the way the work actually flows: languages at the core, the ML stack for modeling, app frameworks for shipping, and infrastructure for keeping it all reproducible.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=0A66C2&icon_color=E8FA03&text_color=A9A9A9&rank_icon=github" alt="GitHub Stats">
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannial-ahmad&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=0A66C2&text_color=A9A9A9" alt="Top Languages">
+<img src="./assets/stack.svg" alt="Technology stack — Python, SQL, Jupyter, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Power BI, Ollama, Git, Linux, Docker, VS Code" width="100%">
 
 </div>
 
 <br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
 
-## `04 /` Signal
-
-<div align="center">
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dannial-ahmad&theme=react-dark&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=E8FA03&height=240&bg_color=0A0A0A" alt="Activity Graph">
-
-<br/><br/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakNum=FFFFFF&sideNums=A9A9A9&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=5A5A5A" alt="Streak Stats">
-
-</div>
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
-
-## `05 /` Contribution Atlas
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-green-animate.svg">
-  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
-</picture>
-
-</div>
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
-
-## `06 /` Currently Building
+<!-- ════════════════════════════════════════════════ 03 ══ -->
+<img src="./assets/header-03.svg" alt="Section 03 — Focus Tracks" width="100%">
 
 Three tracks, one direction — systems that work outside the notebook.
 
@@ -141,14 +40,11 @@ Three tracks, one direction — systems that work outside the notebook.
 **Real-world Impact** — the north star. Interfaces a real user can actually touch: interactive apps with `Streamlit` and `Gradio`, local LLM experiments with `Ollama`, reporting that decisions get made from. A model nobody can use is a hobby; a system people use is impact.
 
 <br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
 
-## `07 /` What I'm Learning
+<!-- ════════════════════════════════════════════════ 04 ══ -->
+<img src="./assets/header-04.svg" alt="Section 04 — Learning Loop" width="100%">
 
 Every week splits into **depth** — one tool pushed past the tutorial — and **breadth** — surveying what's new in applied ML. Depth without breadth becomes dogma; breadth without depth becomes a logo collection.
-
-<div align="left">
 
 **This week — deep work**
 
@@ -170,50 +66,76 @@ Every week splits into **depth** — one tool pushed past the tutorial — and *
 
 </details>
 
-</div>
-
-<br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
 <br/>
 
-## `08 /` Philosophy
+<!-- ════════════════════════════════════════════════ 05 ══ -->
+<img src="./assets/header-05.svg" alt="Section 05 — Operating Principles" width="100%">
 
 - **Impact over metrics.** A deployed system with a clear trade-off story beats a perfect score nobody can use.
 - **Clean pipelines, clear thinking.** The state of the pipeline mirrors the state of the thinking. Both deserve maintenance.
 - **Break • test • iterate.** Small steps, verified constantly. Confidence comes from evidence, not vibes.
 - **Docs people actually read.** If the explanation is unusable, the work is unfinished. Writing is engineering.
-- **Share early, review often.** Feedback is the fastest debugger. Collaboration compounds.
+- **Show the real numbers.** Small honest telemetry beats big decorated vanity metrics. Measure, don't decorate.
 
 <br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
+
+<!-- ════════════════════════════════════════════════ 06 ══ -->
+<img src="./assets/header-06.svg" alt="Section 06 — Field Notes" width="100%">
+
+How the method shows up day to day. Every build runs the same standard pipeline — collect, clean, explore, model, evaluate, share — because skipping a stage always costs more later than running it costs now. Experiments are verified constantly rather than trusted: small steps, quick tests, evidence over vibes. Everything gets written down as if a teammate has to pick it up tomorrow, because readable code and real documentation are part of the deliverable, not an afterthought. And nothing stays hidden in a branch until it is perfect — work is shared early and reviewed often, because feedback is the fastest debugger there is.
+
 <br/>
 
-## `09 /` Achievements
+<!-- ════════════════════════════════════════════════ 07 ══ -->
+<img src="./assets/header-07.svg" alt="Section 07 — Mission Clock" width="100%">
+
+Telemetry, not vanity. The clock below is generated from this account's real GitHub data — days on platform, public fleet size, contributions, streak — rendered as a local SVG instead of a third-party widget, so it always loads and it never lies.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dannial-ahmad&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Trophies" width="100%">
+<img src="./assets/clock.svg" alt="Mission clock — T+265 days on GitHub, 3 public repos, 13 contributions in 2026, current streak 1" width="100%">
 
 </div>
 
 <br/>
-<div align="center"><img src="./assets/divider.svg" alt="" width="90%"></div>
-<br/>
 
-## `10 /` Connect
+<!-- ════════════════════════════════════════════════ 08 ══ -->
+<img src="./assets/header-08.svg" alt="Section 08 — Mission Log" width="100%">
+
+The trajectory so far, plotted on a real timeline: mission start in February, a long quiet build phase, and the first fleet going live in November. Early logs are short — that is what the beginning of a log looks like.
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0A0A0A&border_color=0A66C2" alt="Quote">
+<img src="./assets/timeline.svg" alt="Mission log — 18 Feb 2026 mission start, Mar–Oct build phase, 10 Nov 2026 first public repositories" width="100%">
 
-<br/><br/>
+</div>
 
-<a href="https://linkedin.com/in/dannialahmad"><img src="https://img.shields.io/badge/LinkedIn-dannialahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
+<br/>
+
+<!-- ════════════════════════════════════════════════ 09 ══ -->
+<img src="./assets/header-09.svg" alt="Section 09 — Signal" width="100%">
+
+Status: **open to collaborate.** Most useful around machine learning experiments, data analysis, and building intelligent systems end to end — from raw data to a working interface. If a project needs someone who treats pipelines, evaluation, and documentation as first-class deliverables, that is exactly the kind of work I take on.
+
+<br/>
+
+<!-- ════════════════════════════════════════════════ 10 ══ -->
+<img src="./assets/header-10.svg" alt="Section 10 — Connect" width="100%">
+
+<div align="center">
+
+<a href="https://linkedin.com/in/dannialahmad"><img src="https://img.shields.io/badge/LinkedIn-dannialahmad-6366F1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020" alt="LinkedIn"></a>
 &nbsp;
-<a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-E8FA03?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub"></a>
+<a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-22D3EE?style=for-the-badge&logo=github&logoColor=0B1020&labelColor=0B1020" alt="GitHub"></a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="Footer" width="90%">
+<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=6366F1&labelColor=0B1020" alt="Followers">
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=dannial-ahmad&style=flat-square&color=22D3EE&label=VIEWS&labelColor=0B1020" alt="Profile views">
+
+<br/><br/>
+
+<img src="./assets/footer.svg" alt="End of profile" width="100%">
 
 </div>
