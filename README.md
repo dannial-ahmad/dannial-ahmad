@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-E8FA03?style=flat-square&labelColor=0A0A0A" alt="Status: open to collaborate">
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-FF3B4E?style=flat-square&labelColor=0A0A0A" alt="Status: open to collaborate">
 &nbsp;
-<img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-0A66C2?style=flat-square&labelColor=0A0A0A" alt="Role: AI and ML engineer">
+<img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-F5F5F7?style=flat-square&labelColor=0A0A0A" alt="Role: AI and ML engineer">
 &nbsp;
-<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=0A66C2&labelColor=0A0A0A" alt="GitHub followers">
+<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=FF3B4E&labelColor=0A0A0A" alt="GitHub followers">
 
 </div>
 
@@ -18,9 +18,17 @@
 
 ## `01 /` Identity
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/danyal-wordmark.svg" alt="DANNIAL AHMAD wordmark poster in the avatar's red style with AI, ML, NLP and CV sticker chips" width="100%">
+
+</div>
+
+<img src="https://github.com/dannial-ahmad.png" align="left" width="110" alt="Dannial Ahmad avatar">
+
 I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
 
-Every graphic on this page is generated from this account's live GitHub data: the banner, the stack matrix, the orbit, the snake, and the repo cards are rebuilt on every update and hosted in this repository's own branches. The numbers are the numbers.
+The red on this page is the same red as the avatar poster. One brand, carried through every graphic: the wordmark, the banner, the stack matrix, the orbit, and the repo cards are all generated from this account's live GitHub data and rebuilt on every update. The numbers are the numbers.
 
 <div align="center">
 
@@ -54,8 +62,8 @@ Every graphic on this page is generated from this account's live GitHub data: th
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&icon_color=E8FA03&text_color=8B949E&include_all_commits=true&count_private=true&hide=commits" alt="GitHub stats card for dannial-ahmad" width="49%">
-<img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=E8FA03&sideLabels=8B949E&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5F5F7&icon_color=FF3B4E&text_color=9A9AA6&include_all_commits=true&count_private=true&hide=commits" alt="GitHub stats card for dannial-ahmad" width="49%">
+<img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=FF3B4E&fire=FF6B4A&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=FF3B4E&sideLabels=9A9AA6&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
 
 </div>
 
@@ -71,14 +79,14 @@ Every graphic on this page is generated from this account's live GitHub data: th
 
 ## `04 /` Contribution Atlas
 
-The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the calendar, with the latest active day pulsing at the rim. The 3D calendar raises every contribution into a slab. Both follow your theme.
+The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the calendar, latest active day pulsing at the rim, in the brand's red scale. The 3D calendar raises every contribution into a slab. Both follow your theme.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit.svg">
-  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring, 45 contributions across 2 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
+  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring in red, 46 contributions across 3 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -103,7 +111,7 @@ The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the c
 
 ## `05 /` GitHub Snake
 
-The classic contribution snake, drawn from the account's real calendar: the snake travels the whole year week by week, and the lit cells are the days that count. Watch it make one full lap.
+The classic contribution snake, drawn from the account's real calendar in GitHub's own green: the snake travels the whole year week by week, and the lit cells are the days that count. Watch it make one full lap.
 
 <div align="center">
 
