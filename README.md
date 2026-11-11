@@ -1,40 +1,23 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/dashboard-header.svg" alt="Dannial Ahmad mission control banner: radar dials for public repos, contributions and days on platform, with a scrolling ticker" width="100%">
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-FF3B4E?style=flat-square&labelColor=0A0A0A" alt="Status: open to collaborate">
-&nbsp;
-<img src="https://img.shields.io/badge/ROLE-AI%2FML_ENGINEER-F5F5F7?style=flat-square&labelColor=0A0A0A" alt="Role: AI and ML engineer">
-&nbsp;
-<img src="https://img.shields.io/github/followers/dannial-ahmad?style=flat-square&label=FOLLOWERS&color=FF3B4E&labelColor=0A0A0A" alt="GitHub followers">
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  01 / IDENTITY                                                       -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
 
 ## `01 /` Identity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/danyal-wordmark.svg" alt="DANNIAL AHMAD wordmark poster in the avatar's red style with AI, ML, NLP and CV sticker chips" width="100%">
-
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/danyal-wordmark.svg" alt="Danyal Ahmad Wordmark" width="100%">
 </div>
 
-<img src="https://github.com/dannial-ahmad.png" align="left" width="110" alt="Dannial Ahmad avatar">
+<img src="./assets/profile-avatar.png" align="left" width="260" alt="Danyal Ahmad">
 
-I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
+<p align="justify">
+<strong>I'm Danyal Ahmad</strong>, an AI/ML enthusiast and Computer Science professional passionate about transforming complex ideas into practical, intelligent, and autonomous technologies. My interests span <strong>Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, and Intelligent Systems</strong>. I enjoy exploring emerging technologies, experimenting with AI-powered tools, and developing real-world applications that solve meaningful problems through machine intelligence.My primary focus is on the intersection of <strong>AI, Machine Learning, Computer Vision, Agentic AI, and Intelligent Automation</strong>. I'm particularly interested in developing AI agents, multi-agent systems, autonomous workflows, intelligent decision-making systems, and AI-powered applications that can understand information, process complex tasks, interact with different technologies, and execute actions with minimal human intervention.
+I enjoy working across the complete AI development lifecycle, from research, data processing, model exploration, and system architecture to implementation, integration, testing, deployment, and continuous improvement. My goal is to build intelligent, scalable, and practical AI solutions that go beyond basic automation and bring together perception, reasoning, learning, and autonomous execution.
+</p>
 
-The red on this page is the same red as the avatar poster. One brand, carried through every graphic: the wordmark, the banner, the stack matrix, the orbit, and the repo cards are all generated from this account's live GitHub data and rebuilt on every update. The numbers are the numbers.
 
-<div align="center">
+<br clear="left">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
 
-</div>
+
+
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  02 / STACK MATRIX                                                   -->
@@ -42,17 +25,14 @@ The red on this page is the same red as the avatar poster. One brand, carried th
 
 ## `02 /` Stack Matrix
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/stack-matrix.svg" alt="Stack matrix: Python, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, Jupyter, Git, GitHub, Docker, Pandas, NumPy, Matplotlib, Streamlit, Gradio, Ollama, Linux" width="100%">
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark&perline=8" alt="AI, Machine Learning & Data Science"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=anaconda,fastapi,flask,gradio&theme=dark&perline=8" alt="Machine Learning Development & Deployment"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8" alt="Data Analytics & Databases"/>
 </div>
 
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  03 / GITHUB STATS                                                   -->
@@ -69,8 +49,6 @@ The red on this page is the same red as the avatar poster. One brand, carried th
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -82,82 +60,23 @@ The red on this page is the same red as the avatar poster. One brand, carried th
 The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the calendar, latest active day pulsing at the rim, in the brand's red scale. The 3D calendar raises every contribution into a slab. Both follow your theme.
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit.svg">
-  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring in red, 46 contributions across 3 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-green-animate.svg">
-  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg" width="80%">
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  05 / GITHUB SNAKE                                                   -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## `05 /` GitHub Snake
-
-The classic contribution snake, drawn from the account's real calendar in GitHub's own green: the snake travels the whole year week by week, and the lit cells are the days that count. Watch it make one full lap.
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
-  <img alt="GitHub contribution snake traveling across the year's contribution calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg" width="100%">
+  <img alt="Snake" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
 </picture>
-
+<br/><br/>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output-3d-contrib/profile-night-rainbow.svg">
+</picture>
 </div>
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  06 / TRENDING REPOS                                                 -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## `06 /` Trending Repos
-
-Two builds, shipped in public from day one. Cards refresh with every push: stars, code volume, and the timeline from creation to the latest change.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/trending-repos.svg" alt="Trending repos: Ai-market-analyst and ML-Powered-Loan-Approval-Predictor with stars, code volume and timelines" width="100%">
-
-</div>
-
 <br/>
 
-**Ai-market-analyst** - an AI workspace for reading markets, built Jupyter-native and shipped in public from day one.
 
-**ML-Powered-Loan-Approval-Predictor** - a machine learning take on loan approval decisions, from data cleaning to an honest evaluation of the final model.
-
-Both are early. The point of shipping in public is to let real feedback, not private perfection, shape the next change.
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
-
-## `07 /` What I'm Learning
+## `05 /` What I'm Learning
 
 Every week has a focus: depth on one tool pushed past the tutorial, breadth across what is new in applied ML. Depth without breadth becomes dogma, breadth without depth becomes a logo collection.
 
@@ -180,13 +99,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 
 </div>
 
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
-
-## `08 /` Philosophy
+## `06 /` Philosophy
 
 - **Models that ship > models that score.** Production impact is the only metric that survives contact with reality.
 - **Clean pipelines, clear thinking.** The state of the pipeline mirrors the state of the mind that built it. Both deserve maintenance.
@@ -194,13 +107,8 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 - **Docs people actually read.** If the explanation is unusable, the work is unfinished. Writing is engineering.
 - **Show the real numbers.** Small honest telemetry beats big decorated vanity metrics.
 
-<div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
-
-</div>
-
-## `09 /` Connect
+## `07 /` Connect
 
 <div align="center">
 
