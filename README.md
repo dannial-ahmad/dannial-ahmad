@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/dashboard-header.svg" alt="Dannial Ahmad live telemetry dashboard: 3 public repos, 47 commits, 13 contributions, 265 days on platform" width="100%">
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/dashboard-header.svg" alt="Dannial Ahmad mission control banner: radar dials for public repos, contributions and days on platform, with a scrolling ticker" width="100%">
 
 <br/>
 
@@ -12,8 +12,6 @@
 
 </div>
 
-<br/>
-
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  01 / IDENTITY                                                       -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
@@ -22,11 +20,13 @@
 
 I'm **Dannial Ahmad**, an AI/ML engineer turning messy data into systems people actually use. The work spans deep learning, data analysis, and applied AI: models that earn their keep, pipelines that stay clean, and interfaces a real user can touch.
 
-Every graphic on this page is generated from this account's live GitHub data: the dashboard, the stack matrix, the orbit, the telemetry, and the repo cards are rebuilt on every update and hosted in this repository's own branches. The numbers are the numbers.
+Every graphic on this page is generated from this account's live GitHub data: the banner, the stack matrix, the orbit, the snake, and the repo cards are rebuilt on every update and hosted in this repository's own branches. The numbers are the numbers.
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  02 / STACK MATRIX                                                   -->
@@ -40,9 +40,11 @@ Every graphic on this page is generated from this account's live GitHub data: th
 
 </div>
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  03 / GITHUB STATS                                                   -->
@@ -52,14 +54,16 @@ Every graphic on this page is generated from this account's live GitHub data: th
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&icon_color=E8FA03&text_color=8B949E&include_all_commits=true&count_private=true" alt="GitHub stats card for dannial-ahmad" width="49%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F0F6FC&icon_color=E8FA03&text_color=8B949E&include_all_commits=true&count_private=true&hide=commits" alt="GitHub stats card for dannial-ahmad" width="49%">
 <img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=0A66C2&fire=E8FA03&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=E8FA03&sideLabels=8B949E&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
 
 </div>
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  04 / CONTRIBUTION ATLAS                                             -->
@@ -74,7 +78,7 @@ The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the c
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit.svg">
-  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring, 13 contributions across 2 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
+  <img alt="Contribution orbit: 53 weeks of contributions arranged as a radial ring, 45 contributions across 2 active days" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/contribution-orbit-dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -87,27 +91,35 @@ The year drawn two ways. The orbit maps 53 weeks around a ring, one lap of the c
 
 </div>
 
-<br/>
-<hr/>
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════ -->
-<!--  05 / REPO TELEMETRY                                                 -->
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-## `05 /` Repo Telemetry
-
-Commit weight and code volume for every repository in the account, measured live from the GitHub API. Code volume uses a log scale, because 2.9 MB of notebooks would flatten everything else into a hairline.
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/repo-telemetry.svg" alt="Repo telemetry: commit weight and code volume per repository, 47 total public commits" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
 
 </div>
 
-<br/>
-<hr/>
-<br/>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--  05 / GITHUB SNAKE                                                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+## `05 /` GitHub Snake
+
+The classic contribution snake, drawn from the account's real calendar: the snake travels the whole year week by week, and the lit cells are the days that count. Watch it make one full lap.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake.svg">
+  <img alt="GitHub contribution snake traveling across the year's contribution calendar" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/github-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--  06 / TRENDING REPOS                                                 -->
@@ -115,11 +127,11 @@ Commit weight and code volume for every repository in the account, measured live
 
 ## `06 /` Trending Repos
 
-Two builds, shipped in public from day one. Commit signal updates with every push.
+Two builds, shipped in public from day one. Cards refresh with every push: stars, code volume, and the timeline from creation to the latest change.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/trending-repos.svg" alt="Trending repos: Ai-market-analyst and ML-Powered-Loan-Approval-Predictor with live commit signal" width="100%">
+<img src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/trending-repos.svg" alt="Trending repos: Ai-market-analyst and ML-Powered-Loan-Approval-Predictor with stars, code volume and timelines" width="100%">
 
 </div>
 
@@ -129,11 +141,13 @@ Two builds, shipped in public from day one. Commit signal updates with every pus
 
 **ML-Powered-Loan-Approval-Predictor** - a machine learning take on loan approval decisions, from data cleaning to an honest evaluation of the final model.
 
-Both are early. The point of shipping in public is to let real feedback, not private perfection, shape the next commit.
+Both are early. The point of shipping in public is to let real feedback, not private perfection, shape the next change.
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 ## `07 /` What I'm Learning
 
@@ -158,9 +172,11 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 
 </div>
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 ## `08 /` Philosophy
 
@@ -170,9 +186,11 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 - **Docs people actually read.** If the explanation is unusable, the work is unfinished. Writing is engineering.
 - **Show the real numbers.** Small honest telemetry beats big decorated vanity metrics.
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"><img alt="" src="https://raw.githubusercontent.com/dannial-ahmad/dannial-ahmad/output/section-divider.svg"></picture>
+
+</div>
 
 ## `09 /` Connect
 
