@@ -110,7 +110,7 @@ Every week has a focus: depth on one tool pushed past the tutorial, breadth acro
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/dannial-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-dannial-ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/dannial-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-dannial--ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A0A0A" alt="LinkedIn"></a>
 &nbsp;
 <a href="https://github.com/dannial-ahmad"><img src="https://img.shields.io/badge/GitHub-dannial--ahmad-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0A0A0A" alt="GitHub"></a>
 
