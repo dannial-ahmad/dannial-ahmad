@@ -41,8 +41,6 @@ I enjoy working across the complete AI development lifecycle, from research, dat
 ## `03 /` GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dannial-ahmad&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F5F5F7&icon_color=FF3B4E&text_color=9A9AA6&include_all_commits=true&count_private=true&hide=commits" alt="GitHub stats card for dannial-ahmad" width="49%">
 <img src="https://streak-stats.demolab.com?user=dannial-ahmad&hide_border=true&background=0A0A0A&ring=FF3B4E&fire=FF6B4A&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=FF3B4E&sideLabels=9A9AA6&dates=6E7681" alt="Contribution streak: total contributions, current streak, longest streak" width="49%">
 
 </div>
